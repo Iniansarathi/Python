@@ -1,9 +1,3 @@
-import numpy as np
-import pandas as pd
-import matplotlib as mtp
-
-
-
 def calculator ():
     while True:
         A = input("Enter num1 : ")
